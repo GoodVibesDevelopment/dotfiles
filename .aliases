@@ -1,1 +1,5 @@
 alias s='apt-cache search'
+
+# git aliases
+alias gc='git commit'
+alias gp='git push'
